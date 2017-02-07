@@ -1,0 +1,15 @@
+execution de commande (ls -l)
+redirection (ls -l > l)
+argument en < (cat < toto)
+pipe
+pipe et redirection
+plusieurs pipes
+plusieurs pipes et plusieurs redirection (E/S)
+	la redirection en entré touche seulement la première commande 
+	la redirection en sortie concerne le resultat de toute la commande
+
+besoin 
+fork
+execvp
+dup2/ open
+pipe
